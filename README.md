@@ -1,6 +1,5 @@
 # ember-is-destroying-codemod
 
-
 A collection of codemod's for ember-is-destroying-codemod.
 
 ## Usage
@@ -19,21 +18,21 @@ ember-is-destroying-codemod <TRANSFORM NAME> path/of/files/ or/some**/*glob.js
 ## Transforms
 
 <!--TRANSFORMS_START-->
-* [convert-isalive-to-isdestroying](transforms/convert-isalive-to-isdestroying/README.md)
+* [convert-to-isdestroying](transforms/convert-to-isdestroying/README.md)
 <!--TRANSFORMS_END-->
 
 ## Contributing
 
 ### Installation
 
-* clone the repo
-* change into the repo directory
-* `yarn`
+- clone the repo
+- change into the repo directory
+- `yarn`
 
 ### Running tests
 
-* `yarn test`
+- `yarn test`
 
 ### Update Documentation
 
-* `yarn update-docs`
+- `yarn update-docs`

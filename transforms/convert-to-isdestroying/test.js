@@ -4,5 +4,5 @@ const { runTransformTest } = require('codemod-cli');
 
 runTransformTest({
   type: 'jscodeshift',
-  name: 'convert-isalive-to-isdestroying',
+  name: 'convert-to-isdestroying',
 });
